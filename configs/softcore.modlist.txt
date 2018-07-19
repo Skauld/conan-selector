@@ -8,4 +8,4 @@
 *C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\880177231/Pythagoras.pak
 *C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\925197087/DyeMoreBetterer.pak
 *C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\1437712973/PermPaint.pak
-C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\862889805/test.pak
+*C:\Program Files (x86)\Steam\steamapps\workshop\content\440900\862889805/test.pak
